@@ -1,18 +1,15 @@
-$colorUno: hsl(55, 96%, 70%);
-$colorDos: #b83b5e;
-$colorTres: #6a2c70;
+@import 'variables';
+header{
+    height: 200px;
+    background: $colorDos;
+}
+
 section{
-   background:  $colorUno;
-
-   h1{
-       background: $colorUno;
-   }
-
-   h2{
-       background: $colorDos;
-   }
-   
-   p{
+    height: 200px;
     background: $colorTres;
-   }
+}
+
+footer{
+    height: 200px;
+    background: $colorCuatro;
 }

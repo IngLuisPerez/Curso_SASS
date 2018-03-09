@@ -1,10 +1,13 @@
+header {
+  height: 200px;
+  background: #393E46; }
+
 section {
-  background: #fcf069; }
-  section h1 {
-    background: #fcf069; }
-  section h2 {
-    background: #b83b5e; }
-  section p {
-    background: #6a2c70; }
+  height: 200px;
+  background: #00ADB5; }
+
+footer {
+  height: 200px;
+  background: #EEEEEE; }
 
 /*# sourceMappingURL=estilos.css.map */
