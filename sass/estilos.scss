@@ -1,15 +1,18 @@
+$colorUno: hsl(55, 96%, 70%);
+$colorDos: #b83b5e;
+$colorTres: #6a2c70;
 section{
-   background:  #f9ed69;
+   background:  $colorUno;
 
    h1{
-       background: #f08a5d;
+       background: $colorUno;
    }
 
    h2{
-       background: #b83b5e;
+       background: $colorDos;
    }
    
    p{
-    background: #6a2c70;
+    background: $colorTres;
    }
 }
